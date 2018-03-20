@@ -31,6 +31,6 @@ dependencyManagement {
 
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-starter-eureka-server')
+	compile('org.springframework.boot:spring-cloud-starter-eureka-server')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
